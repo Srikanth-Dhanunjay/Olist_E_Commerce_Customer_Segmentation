@@ -1,5 +1,5 @@
-# Olist E-Commerce Strategic Customer Segmentation Analysis
-## Data Platform Analytics & Behavioral Value Pipeline
+# Customer Segmentation & Revenue Retention Analytics
+## Python · RFM Modeling · Power BI | 93K+ Customers · E-Commerce
 
 An end-to-end data engineering and business intelligence project that processes raw transactional e-commerce data from Olist (Brazil), engineers behavioral consumer features using the **RFM (Recency, Frequency, Monetary)** framework in Python, and deploys an executive-ready dashboard presentation.
 
